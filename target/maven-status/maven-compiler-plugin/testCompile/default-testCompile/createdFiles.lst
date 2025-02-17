@@ -1,0 +1,13 @@
+com\bksoft\testngpractice\Test1.class
+com\bksoft\testngpractice\Base.class
+com\bksoft\utilities\FluentWaitTest.class
+com\bksoft\testngpractice\Test2.class
+com\bksoft\utilities\TakeScreenshots.class
+com\bksoft\keyboard\MouseActions.class
+com\selenium\locators\HomePage.class
+com\bksoft\keyboard\HandlingList.class
+com\bksoft\utilities\ReadExcel.class
+com\bksoft\utilities\ReadProperties.class
+com\bksoft\keyboard\KeyboardActions.class
+com\bksoft\keyboard\BaseClass.class
+com\bksoft\keyboard\HandleWindows.class
